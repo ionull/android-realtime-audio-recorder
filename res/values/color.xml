@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- general color -->
+	<color name="black">#000000</color>
+	<color name="red">#FF0000</color>
+	<color name="gray">#888888</color>
+	<color name="white">#FFFFFF</color>
+	<color name="transparent">#00000000</color>
+	<color name="transparent_thin">#00000001</color>
+
+	<color name="background_color">#e4e4e2</color>
+	<color name="light_black">#434343</color>
+	<color name="deep_black">#666666</color>
+
+	<color name="divider_color">#999999</color>
+
+	<color name="option_login_status">#E36F00</color>
+
+	<color name="activity_list">#FF9900</color>
+	<!-- list color -->
+	<color name="list_default_normal">#FFFFFFFF</color>
+	<color name="list_divider">#FFE4E3E5</color>
+	<color name="list_category_background">#FFFFFFFF</color>
+	<color name="list_indexer_normal">#00000000</color>
+	<color name="list_indexer_moving">#ced7db</color>
+	<color name="list_indexer_txt_normal">#7e7e7f</color>
+	<color name="list_indexer_txt_moving">#FFFFFFFF</color>
+
+	<!-- button color -->
+	<color name="dialer_button_text">#555555</color>
+
+	<!--dynamic font color -->
+	<color name="blue_font">#139ec0</color>
+	<color name="blue_big">#000000</color>
+	<color name="blue_small">#3685BD</color>
+	<color name="blue_block">#E0F7FD</color>
+
+	<color name="orangle_small">#CE5801</color>
+	<color name="orangle_block">#f4d9af</color>
+
+	<color name="gray_font">#4C4F54</color>
+
+	<!-- general font color -->
+	<color name="font_gray">#707070</color>
+	<color name="font_blue">#8dceff</color>
+	<color name="font_yellow">#e26c00</color>
+	<color name="font_gray_small">#454545</color>
+
+	<color name="font_number_location">#3d6481</color>
+	<color name="font_contact_label">#6c6c6c</color>
+	<color name="font_one_key_register_info">#ffffff</color>
+	<color name="font_contact_title_press_bg">#b2e6f5</color>
+	<color name="list_contact_item_press_bg">#b2e6f5</color>
+
+	<!-- activity font color -->
+	<color name="green_interest">#589c27</color>
+	<color name="blue_join">#0070bf</color>
+	<color name="orangle_unconfirmed">#ff7800</color>
+	<color name="rad_not_join">#eb3903</color>
+
+	<color name="blue_thin">#386a91</color>
+	
+	<color name="transparent_background">#50000000</color>
+	
+	<color name="user_card_nav_background">#CBDFE8</color>
+	<color name="user_card_nav_text_color">#9D9D9D</color>
+	<color name="user_card_text_color">#05819D</color>
+	<color name="user_card_completed_text_color">#784A00</color>
+	<color name="user_card_background_color">#E0E8EB</color>
+	<color name="user_card_item_label_color">#3D6481</color>
+	<color name="user_card_item_value_color">#323232</color>
+	<color name="user_card_item_verified_tip_color">#74B044</color>
+	<color name="user_card_birthday_hide_color">#9C9C9C</color>
+	
+	<color name="user_card_name">#00a9d5</color>
+	<color name="user_card_item_color">#3a3a3a</color>
+	
+	
+	
+	<!-- 私聊状态 -->
+	<color name="im_state_yellow">#e19910</color>
+	<color name="im_state_green">#56b60a</color>
+	<color name="im_state_blue">#1d8ac7</color>
+	<color name="im_state_red">#df5c5a</color>
+	<!-- 私聊总列表文本 -->
+	<color name="im_grey">#9c9d9d</color>
+	<!-- 私聊详情提示文本 -->
+	<color name="im_hint">#666666</color>
+	<!-- 私聊弹出菜单 -->
+	<color name="im_popup_menu">#10a1e3</color>
+	<color name="im_selection">#d5dddf</color>
+	<color name="im_selection_line">#d0d0d0</color>	
+	<!-- 私聊聊天数据联系人 -->
+	<color name="im_contact_blue">#a6d2e0</color>
+	<color name="im_contact_gray">#cdcdcd</color>
+	
+	<!-- 短信弹出窗口文本 -->
+	
+	<!--索引 -->
+	<color name="sms_pop_up_index">#5E5D5D</color>	
+	<!-- 提示文字 -->
+	<color name= "sms_pop_up_tip">#9C9D9D</color>
+	<!-- 更多设置按钮文字 -->
+	<color name="sms_pop_up_more_setting">#37393B</color>
+	
+	<color name="group_detail_color">#E0E8EB</color>
+	
+	<color name="group_member_color">#E0E8EB</color>
+	
+	<color name="title_font">#4e4e4e</color>
+	<!-- 分享来源群组 -->
+    <color name="source_font">#9a9a9a</color>
+    <!-- 分享内容文字 -->
+    <color name="statuses_content">#6c6d6d</color>
+</resources>
